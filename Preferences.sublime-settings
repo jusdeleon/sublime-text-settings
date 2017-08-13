@@ -1,0 +1,25 @@
+{
+	"caret_style": "solid",
+	"color_scheme": "Packages/User/SublimeLinter/Slime (SL).tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"font_face": "Roboto Mono",
+	"font_size": 11,
+	"ignored_packages":
+	[
+	],
+	"line_padding_bottom": 6,
+	"line_padding_top": 6,
+	"save_on_focus_lost": true,
+	"theme": "Material-Theme.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_whitespace_on_save": true,
+	"vintage_start_in_command_mode": true,
+	"always_show_minimap_viewport" : true,
+	"bold_folder_labels"           : true,
+	"font_options"                 : [ "gray_antialias", "subpixel_antialias" ],    // On retina Mac & Windows
+	"indent_guide_options"         : [ "draw_normal", "draw_active" ],   // Highlight active indent
+	"overlay_scroll_bars"          : "enabled",
+	"material_theme_small_statusbar"          : true , // Set small status bar
+	"material_theme_compact_sidebar"          : true , // Set compact side bar
+	"material_theme_small_tab"                : true , // Set small tabs
+}

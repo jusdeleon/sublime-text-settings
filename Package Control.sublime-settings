@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Dayle Rees Color Schemes",
+		"Material Theme",
+		"Package Control",
+		"PHP CS Fixer",
+		"ProjectManager",
+		"SnippetMaker",
+		"SublimeLinter",
+		"SublimeLinter-phpcs",
+		"Theme - Spacegray"
+	]
+}
